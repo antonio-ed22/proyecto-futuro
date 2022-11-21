@@ -2,6 +2,8 @@ package es.severo;
 
 public class Main {
 
+    // Antonio M.
+
     public static void main(String[] args) {
         System.out.println("Estudiante "+args[0]);
         System.out.println(veredicto("10", "1"));
